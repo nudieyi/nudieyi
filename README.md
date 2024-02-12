@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages.
 I am looking for help with free practice lab resources for DevOps.
@@ -7,6 +7,7 @@ You can reach me at nudieyi@yahoo.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
 ### Hi there 👋, Newman Dieyi
 #### Software Development and DevOps Engineering
