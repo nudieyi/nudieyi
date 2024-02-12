@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages.
+I am looking for help with free practice lab resources for DevOps.
+You can reach me at nudieyi@yahoo.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nudieyi/nudieyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
