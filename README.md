@@ -11,15 +11,17 @@ You can reach me at nudieyi@yahoo.com
 
 ![Software Development and DevOps Engineering](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPWARjnK1M2X6gPQeh_pdvvz-2zldRaMZqQ&usqp=CAU)
 
-### Hi there 👋, Newman Dieyi
-#### Software Development and DevOps Engineering
-
+# Newman Dieyi
 I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
-Skills: LINUX/ BASH/ DOCKER/ JENKINS/ K8S/ AWS/ TERRAFORM/ ANSIBLE
+## Skills
+* Linux            * Bash          * Docker
+* Jenkins          * Kubernetes    * AWS
+* Terraform        * Ansible       * Jira
 
+### Others
 - 🌱 I’m currently learning GCP and Microsoft Azure 
-- 🤔 I’m looking for help with Free DevOPs Lab Resources 
+- 🤔 I’m looking for help with Free DevOps Lab Resources 
 - 📫 How to reach me: nudieyi@yahoo.com 
 - 😄 Pronouns: He/Him 
 
