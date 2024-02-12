@@ -9,9 +9,10 @@ You can reach me at nudieyi@yahoo.com
 
 -->
 
+![Software Development and DevOps Engineering](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPWARjnK1M2X6gPQeh_pdvvz-2zldRaMZqQ&usqp=CAU)
+
 ### Hi there 👋, Newman Dieyi
 #### Software Development and DevOps Engineering
-![Software Development and DevOps Engineering](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPWARjnK1M2X6gPQeh_pdvvz-2zldRaMZqQ&usqp=CAU)
 
 I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
