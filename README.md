@@ -15,9 +15,15 @@ You can reach me at nudieyi@yahoo.com
 I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
 ## Skills
-* Linux            * Bash          * Docker
-* Jenkins          * Kubernetes    * AWS
-* Terraform        * Ansible       * Jira
+* Linux
+* Bash
+* Docker
+* Jenkins
+* Kubernetes
+* AWS
+* Terraform
+* Ansible
+* Jira
 
 ### Others
 - 🌱 I’m currently learning GCP and Microsoft Azure 
