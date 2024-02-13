@@ -56,14 +56,13 @@ I'm Newman from Canada. I am currently working on a project using DevOps tools. 
 - 📫 How to reach me: nudieyi@yahoo.com 
 - 😄 Pronouns: He/Him 
 
-
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nudieyi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@nmhugo)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nudieyi)  
-
-
+-->
 
 
 <!--
