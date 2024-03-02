@@ -1,18 +1,9 @@
-<!-- ### Hi there 👋
+# Hi there 👋, I'm Newman Dieyi
 
-I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages.
-I am looking for help with free practice lab resources for DevOps.
-You can reach me at nudieyi@yahoo.com
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-# Newman Dieyi
-Hi, I'm Newman Dieyi
-I am in interested.. soccer
+I am working on becoming a full stack developer! in interested.. soccer
 I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/nudieyi/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nmdieyi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kene_Hugo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nmhugo) 
