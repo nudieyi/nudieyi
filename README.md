@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Newman Dieyi
 
-I am working on becoming a full stack developer! in interested.. soccer
-I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
+I am working on becoming a full-stack developer! I am currently in benefits services delivery while learning to be a software development specialist.
+My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. This informed my decision to transition into the tech space and learn new skills which have been challenging and equally very exciting.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
 
