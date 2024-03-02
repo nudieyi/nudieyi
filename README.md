@@ -8,9 +8,6 @@ You can reach me at nudieyi@yahoo.com
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-
-![Software Development and DevOps Engineering](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPWARjnK1M2X6gPQeh_pdvvz-2zldRaMZqQ&usqp=CAU)
-
 # Newman Dieyi
 I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
