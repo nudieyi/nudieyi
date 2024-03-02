@@ -1,7 +1,18 @@
 # Hi there 👋, I'm Newman Dieyi
 
 I am working on becoming a full-stack developer! I am currently in benefits services delivery while learning to be a software development specialist.
-My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. This informed my decision to transition into the tech space and learn new skills which have been challenging and equally very exciting.
+My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. The excitement to get out and make a change, while contributing to something meaningful is missing. Deciding to transition into the tech space and learn new skills has been challenging and equally very exciting and I am excited to see where this journey takes me and I can't wait to share more with you!
+
+## Interests: I am interested in Tech-related content and news, AI, Cloud Engineering, Soccer, God, Family, Relationships, and Canadian politics.
+
+### #### Languages and tools:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+### - 🔭 I’m currently working on the modules for <a href="https://www.getcoding.ca/">Get Coding</a>
+
+#### - 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudieyi)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,32 +25,12 @@ My journey so far has been rooted in nutrition and health and while that has bee
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nudieyi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nudieyi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nudieyi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-## Skills
-* Linux
-* Bash
-* Docker
-* Jenkins
-* Kubernetes
-* AWS
-* Terraform
-* Ansible
-* Jira
--->
 
-##### Others
-- 🌱 I’m currently learning GCP, and Microsoft Azure. 
-- 🤔 I’m looking for help with Free DevOps Lab Resources 
-- 📫 How to reach me: nudieyi@yahoo.com 
-- 😄 Pronouns: He/Him 
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nudieyi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@nmhugo)  
