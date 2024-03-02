@@ -9,7 +9,9 @@ You can reach me at nudieyi@yahoo.com
 
 -->
 # Newman Dieyi
-I'm Newman from Canada. I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
+Hi, I'm Newman Dieyi
+I am in interested.. soccer
+I am currently working on a project using DevOps tools. I like bash and python scripting languages. 
 
 
 ## 🌐 Socials:
