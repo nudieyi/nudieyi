@@ -13,14 +13,18 @@ My journey so far has been rooted in nutrition and health and while that has bee
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
+
 ### 🔭 I’m currently working on the modules for <a href="https://www.getcoding.ca/">Get Coding</a>
+
 
 
 #### 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nmdieyi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kene_Hugo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nmhugo) 
+
 
 
 #### 📊 GitHub Stats:
