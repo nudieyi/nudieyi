@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Newman Dieyi
 
 I am working on becoming a full-stack developer! I am currently in benefits services delivery while learning to be a software development specialist.
-My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. The excitement to get out and make a change, while contributing to something meaningful is missing. Deciding to transition into the tech space and learn new skills has been challenging and equally very exciting and I am excited to see where this journey takes me and I can't wait to share more with you!
+My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. The excitement to get out and make a change, while contributing to something meaningful was missing. Deciding to transition into the tech space and learn new skills has been challenging and equally very exciting and I am excited to see where this journey takes me and I can't wait to share more with you!
 
 
 ## Interests: I am interested in Tech-related content and news, AI, Cloud Engineering, Soccer, God, Family, Relationships, and Canadian politics.
