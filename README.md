@@ -30,7 +30,7 @@ My journey so far has been rooted in nutrition and health and while that has bee
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nudieyi&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
