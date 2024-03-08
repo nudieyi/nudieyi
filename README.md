@@ -14,20 +14,14 @@ My journey so far has been rooted in nutrition and health and while that has bee
 -->
 
 
-### 🔭 I’m currently working on the modules for <a href="https://www.getcoding.ca/">Get Coding</a>
+## 🔭 I’m currently training with <a href="https://www.getcoding.ca/">Get Coding</a>
 
-
-
-#### 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
-
-
+## 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nmdieyi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kene_Hugo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nmhugo) 
 
-
-
-#### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nudieyi&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudieyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
