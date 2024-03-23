@@ -1,0 +1,39 @@
+header{
+    background-color: royalblue;
+    padding: 5px;
+    text-align: center;
+    text-decoration: underline;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+} 
+
+header h1{
+    color: white;
+    border: 4px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 36px;
+}
+
+article h2{
+    color: black;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size:xx-large;
+    background-color: none;
+}
+
+article p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-weight: 800;
+    font-size: large;
+    background-color: black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
