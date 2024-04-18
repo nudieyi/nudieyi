@@ -14,7 +14,7 @@ My journey so far has been rooted in nutrition and health and while that has bee
 -->
 
 
-## 🔭 I’m currently training with <a href="https://www.getcoding.ca/">Get Coding</a>
+## 🔭 I’m currently training with .......
 
 ## 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
 
