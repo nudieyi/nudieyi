@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Newman Dieyi
 
-I am working on becoming a full-stack developer! I am currently in benefits services delivery while learning to be a software development specialist.
-My journey so far has been rooted in nutrition and health and while that has been nice, I have not found it very challenging to push boundaries and expand my capacity. The excitement to get out and make a change, while contributing to something meaningful was missing. Deciding to transition into the tech space and learn new skills has been challenging and equally very exciting and I am excited to see where this journey takes me and I can't wait to share more with you!
+I am working on becoming a cloud engineer! I am currently in benefits services delivery while learning to be a cloud engineer.
+My journey so far has been rooted in nutrition and health and while that has been nice, I have not found pushing boundaries and expanding my capacity extremely challenging. The excitement to get out and make a change, while contributing to something meaningful was missing. Deciding to transition into the tech space and learn new skills has been challenging and equally very exciting and I am excited to see where this journey takes me and I can't wait to share more with you!
 
 
 ## Interests: I am interested in Tech-related content and news, AI, Cloud Engineering, Soccer, God, Family, Relationships, and Canadian politics.
@@ -14,9 +14,9 @@ My journey so far has been rooted in nutrition and health and while that has bee
 -->
 
 
-## 🔭 I’m currently training with .......
+## 🔭 I’m currently training with AltSchool Africa.
 
-## 🌱 I’m currently learning Docker, Kubernetes, Terraform, GCP, and AWS.
+## 🌱 I’m learning Python, Docker, Kubernetes, Terraform, GCP, and AWS.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nmdieyi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kene_Hugo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nmhugo) 
